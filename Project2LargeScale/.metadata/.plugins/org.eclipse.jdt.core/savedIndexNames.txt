@@ -1,0 +1,1 @@
+INDEX VERSION 1.127+/Users/annguyen/lssd-w17-cenw/Project2LargeScale/.metadata/.plugins/org.eclipse.jdt.core
